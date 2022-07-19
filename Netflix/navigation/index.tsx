@@ -20,6 +20,7 @@ import useColorScheme from "../hooks/useColorScheme";
 import ModalScreen from "../screens/ModalScreen";
 import NotFoundScreen from "../screens/NotFoundScreen";
 import HomeScreen from "../screens/HomeScreen";
+import MovieDetailsScreen from "../screens/MovieDetailsScreen";
 import TabTwoScreen from "../screens/TabTwoScreen";
 import {
   RootStackParamList,
@@ -57,6 +58,13 @@ function RootNavigator() {
         component={BottomTabNavigator}
         options={{ headerShown: false }}
       />
+
+      <Stack.Screen
+        name="MovieDetailsScreen"
+        component={MovieDetailsScreen}
+        options={{ headerShown: false }}
+      />
+
       <Stack.Screen
         name="NotFound"
         component={NotFoundScreen}
@@ -94,6 +102,16 @@ function BottomTabNavigator() {
           ),
         }}
       />
+
+      <BottomTab.Screen
+        name="MovieDetialsScreen"
+        component={MovieDetailsScreen}
+        options={{
+          tabBarIcon: ({ color }) => (
+            <AntDesign name="home" size={24} color={color} />
+          ),
+        }}
+      />
       <BottomTab.Screen
         name="Coming_Soon"
         component={TabTwoScreen}
@@ -124,5 +142,3 @@ function BottomTabNavigator() {
     </BottomTab.Navigator>
   );
 }
-
-
