@@ -104,7 +104,7 @@ function BottomTabNavigator() {
       />
 
       <BottomTab.Screen
-        name="MovieDetialsScreen"
+        name="MovieDetailsScreen"
         component={MovieDetailsScreen}
         options={{
           tabBarIcon: ({ color }) => (
