@@ -86,7 +86,7 @@ const MovieDetailsScreen = () => {
               </View>
             </View>
             <Picker
-              selectedValue={"a"}
+              selectedValue={currentSeason.name}
               onValueChange={(itemValue, itemIndex) => {
                 setCurrentSeason(movie.seasons.items[itemIndex]);
               }}
