@@ -20,13 +20,13 @@ const EpisodeItem = (props: EpisodeItemProps) => {
   const { episode } = props;
   // console.log(episode.poster);
   return (
-    <View style={{marginBottom:20}}>
+    <View style={{margin:10}}>
 
       <View style={styles.row}>
         <Image style={styles.image} source={{uri: episode.poster}} />
         
 
-        <View>
+        <View style={styles.titleContainer}>
           <Text style={styles.title}> { episode.title}</Text>
           <Text style={styles.duration}> { episode.duration}</Text>
         </View>
