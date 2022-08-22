@@ -11,3 +11,14 @@ Netflix-App is a frontend application built using React Native with Expo, TypeSc
 It shows a list of movies and TV shows in a horizontally and vertically scrollable form.
 
 <img src="https://user-images.githubusercontent.com/57967961/186027213-d1795d75-a8ce-4b49-a983-c7bf68a71f48.jpeg" width="250">
+
+#### Movie Details Screen part 1
+
+<img src="https://user-images.githubusercontent.com/57967961/186028966-5400a9d7-dc46-4899-a167-1457da09eb3c.jpeg" width="250">
+
+
+#### Movie Details Screen part 2
+
+<img src="https://user-images.githubusercontent.com/57967961/186029079-f9473503-a0d4-4a51-b765-8232c0df4187.jpeg" width="250">
+
+
