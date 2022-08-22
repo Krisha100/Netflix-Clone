@@ -4,6 +4,10 @@
 
 
 
+
+<img src = "https://user-images.githubusercontent.com/57967961/186034350-cb76b721-9364-455d-82e3-735270c838d3.png" width="200" >
+
+
 ### Table of Contents
 
 - [Netflix-App Overview](#netflix-app-overview) 
