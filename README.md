@@ -1,5 +1,9 @@
 # Netflix-Clone
 
+<img src = "https://user-images.githubusercontent.com/57967961/186033915-5317f271-c633-4497-a7c9-92aa0972faea.png" width="200" >
+
+
+
 ### Table of Contents
 
 - [Netflix-App Overview](#netflix-app-overview) 
