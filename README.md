@@ -2,7 +2,10 @@
 
 ### Table of Contents
 
-[Netflix-App Overview](#netflix-app-overview) 
+- [Netflix-App Overview](#netflix-app-overview) 
+- [Demonstrations](#demonstrations)
+- [Tools](#tools)
+- [Technologies](#technologies)
 
 
 
