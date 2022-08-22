@@ -26,5 +26,13 @@ Based on the season selected from dropdown picker, it shows a list of episodes a
 
 <img src="https://user-images.githubusercontent.com/57967961/186030447-55568709-e1c4-437c-b144-b5aee4b8fb57.jpeg" width="250">
 
+## Tools
+- VS Code
+- GitHub
+
+## Technologies
+
+- Frontend UI engine: React Native / TypeScript 
+
 
 
