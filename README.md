@@ -14,10 +14,14 @@ It shows a list of movies and TV shows in a horizontally and vertically scrollab
 
 #### Movie Details Screen part 1
 
+It shows cover picture of selected show along with play, download buttons, plot description, cast and creator details and three other buttons.
+
 <img src="https://user-images.githubusercontent.com/57967961/186028966-5400a9d7-dc46-4899-a167-1457da09eb3c.jpeg" width="250">
 
 
 #### Movie Details Screen part 2
+
+Based on the season selected from dropdown picker, it shows a list of shows and their details.
 
 <img src="https://user-images.githubusercontent.com/57967961/186029079-f9473503-a0d4-4a51-b765-8232c0df4187.jpeg" width="250">
 
