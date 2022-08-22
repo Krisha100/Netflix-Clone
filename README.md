@@ -23,6 +23,8 @@ It shows cover picture of selected show along with play, download buttons, plot 
 
 Based on the season selected from dropdown picker, it shows a list of episodes and their details. Cover picture changes based on episode selected.
 
-<img src="https://user-images.githubusercontent.com/57967961/186029079-f9473503-a0d4-4a51-b765-8232c0df4187.jpeg" width="250">
+
+<img src="https://user-images.githubusercontent.com/57967961/186030447-55568709-e1c4-437c-b144-b5aee4b8fb57.jpeg" width="250">
+
 
 
